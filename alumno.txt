@@ -1,0 +1,55 @@
+{
+   "alumnos":[
+      {
+         "alumno":"Lide",
+         "nota":8,
+         "ranking":10,
+      },
+      {
+         "alumno":"Pepito",
+         "nota":5,
+         "ranking":18,
+      },
+      {
+         "alumno":"Ana",
+         "nota":9,
+         "ranking":8,
+      },
+      {
+          "alumno":"Luis",
+         "nota":8,
+         "ranking":9,
+      },
+      {
+         "alumno":"Manex",
+         "nota":6,
+         "ranking":14,
+      },
+      {
+         "alumno":"Nagore",
+         "nota":10,
+         "ranking":1,
+      },
+      {
+         "alumno":"Jaimito",
+         "nota":2,
+         "ranking":35,
+      },
+      {
+         "alumno":"Jon",
+         "nota":4,
+         "ranking":26,
+      },
+      {
+         "alumno":"Amaia",
+         "nota":4,
+         "ranking":25,
+      }
+
+
+
+
+
+
+    ]
+}
